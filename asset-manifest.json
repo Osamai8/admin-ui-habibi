@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/admin-ui-habibi/static/css/main.3adb2c0d.chunk.css",
+    "main.js": "/admin-ui-habibi/static/js/main.6aaeaa52.chunk.js",
+    "main.js.map": "/admin-ui-habibi/static/js/main.6aaeaa52.chunk.js.map",
+    "runtime-main.js": "/admin-ui-habibi/static/js/runtime-main.4b4b04f9.js",
+    "runtime-main.js.map": "/admin-ui-habibi/static/js/runtime-main.4b4b04f9.js.map",
+    "static/js/2.a8d38909.chunk.js": "/admin-ui-habibi/static/js/2.a8d38909.chunk.js",
+    "static/js/2.a8d38909.chunk.js.map": "/admin-ui-habibi/static/js/2.a8d38909.chunk.js.map",
+    "static/js/3.afc4225e.chunk.js": "/admin-ui-habibi/static/js/3.afc4225e.chunk.js",
+    "static/js/3.afc4225e.chunk.js.map": "/admin-ui-habibi/static/js/3.afc4225e.chunk.js.map",
+    "index.html": "/admin-ui-habibi/index.html",
+    "static/css/main.3adb2c0d.chunk.css.map": "/admin-ui-habibi/static/css/main.3adb2c0d.chunk.css.map",
+    "static/js/2.a8d38909.chunk.js.LICENSE.txt": "/admin-ui-habibi/static/js/2.a8d38909.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b4b04f9.js",
+    "static/js/2.a8d38909.chunk.js",
+    "static/css/main.3adb2c0d.chunk.css",
+    "static/js/main.6aaeaa52.chunk.js"
+  ]
+}
