@@ -1,0 +1,25 @@
+body {
+  margin: 0 3rem;
+}
+.non-editable {
+  background: transparent;
+  border: none;
+  outline: none;
+  pointer-events: none;
+}
+.editable {
+  border: 1px solid black;
+  pointer-events: all;
+}
+.save-user {
+  display: flex;
+}
+span {
+  color: blue;
+}
+p {
+  font-size: 12px;
+  margin-left: 0.4rem;
+  margin-right: 0.4rem;
+  cursor: pointer;
+}
